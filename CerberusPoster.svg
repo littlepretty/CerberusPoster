@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16"
+     inkscape:zoom="0.1"
      inkscape:cx="880.69274"
-     inkscape:cy="5089.7715"
+     inkscape:cy="3039.7715"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -2881,7 +2881,7 @@
        height="6035.7061"
        width="9359.7646" />
     <g
-       transform="matrix(4.1950405,0,0,-4.3712484,-189.44356,-1832.3101)"
+       transform="matrix(4.1950405,0,0,-4.3712484,-189.44356,-2412.3101)"
        inkscape:label="ink_ext_XXXXXX"
        id="g3427">
       <g
@@ -4870,7 +4870,7 @@
       </g>
     </g>
     <g
-       transform="matrix(3.7003972,0,0,-4.6695433,2896.9028,2149.3326)"
+       transform="matrix(3.7003972,0,0,-4.6695433,2986.9028,-760.6674)"
        inkscape:label="3PhaseJobFSM"
        id="g6469">
       <g
@@ -6524,7 +6524,7 @@
       </g>
     </g>
     <g
-       transform="matrix(2.2625353,0,0,-2.9753838,-4046.898,557.6795)"
+       transform="matrix(2.392095,0,0,-2.9451424,-4176.898,-932.37327)"
        inkscape:label="ink_ext_XXXXXX"
        id="g7689">
       <g
